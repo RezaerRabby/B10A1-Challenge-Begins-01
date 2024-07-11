@@ -11,7 +11,6 @@
     margin: 30px;
     padding: 20px;
     min-height: 550px;
-    border: 2px solid;
     margin: 20px;
     background-image: url("../assets/Hero-bg.png");
     background-position: center;
@@ -119,6 +118,7 @@
     font-size: 32px;
     /* display: flex */
     text-align:center;
+    font-family: Azeret Mono;
     
     
     /* 1nember  */
@@ -145,9 +145,73 @@
     margin-top: 48px;
     font-size: 24px;
     border-left: fext 48px;
+    font-family: Azeret Mono;
 
 }
 .text-2{
     margin-top: 10px;
     font-size: 16px;
+    font-family: Azeret Mono;
+}
+
+/* img style */
+
+
+
+
+/* 1 number photo */
+
+.pohto-1{
+    margin-top: 48px;
+    float: right 48px;
+    height: auto;
+    
+}
+
+
+/* ------vedio style---------- */
+
+.insup pohto-containar{
+}
+
+
+
+/* text--style------ */
+.tex-style-1{
+    height: 100%;
+    width: 80%;
+    border: 2px solid;
+    margin: 90px;
+}
+
+.text-1{
+    font-family: Azeret Mono;
+    font-size: 24px;
+    text-align: center;
+
+}
+
+.text-2{
+    text-align: center;
+    font-family: Azeret Mono;
+    font-size: 16px;
+   
+   
+}
+
+
+/* ---------------vedo------------- */
+
+.insup pohto-containar{
+
+    height: 800px;
+    width: 1000px;
+    margin: 150px auto 70px;
+    /* display: block;
+    unicode-bidi: isolate;
+    border: 2px solid red; */
+}
+.vdo{
+    border-radius: 16px;
+    height: 550px;
 }
