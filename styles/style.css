@@ -1,0 +1,153 @@
+ *{ 
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+ }
+ /* banner-container style */
+
+.banner-container{
+    text-align: center;
+    width: 1200px;
+    margin: 30px;
+    padding: 20px;
+    min-height: 550px;
+    border: 2px solid;
+    margin: 20px;
+    background-image: url("../assets/Hero-bg.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-bottom: 74px;
+    
+}
+/* banner-content-style */
+
+.banner-content h1{
+    font-size: 40px;
+    padding-top: 32px;
+    font-family: Azeret Mono;
+
+  
+}
+.banner-content p{
+    font-size: 16px;
+    padding-top: 24px;
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+
+    
+}
+
+/* frame-container */
+
+
+.frame-container{
+    
+   
+    margin: 30px;
+    padding: 20px;
+    border: 2px solid red; 
+}
+.link{
+    margin-top: 35px;
+    height: 40px;
+    width: 120px;
+    background-color: black;
+    border-radius: 5px;
+    text-align: center;
+    display: inline-block;
+    padding-top: 10px;
+}
+.link a{
+    color: white;
+    font-family: tahoma;
+    text-transform: lowercase;
+    text-decoration: none;
+    font-size: small;
+}
+
+
+
+/* .info-cod{
+    width: 1140px;
+    height: 1393px;
+    padding: 80px 97px;
+    margin: auto;
+    background-color: rgb(13, 19, 33,0.02); */
+
+
+/* .info-cod-container{
+    width: 946px;
+    height: 1233px;
+
+
+}
+.hedar-info{
+    width: 825px;
+    text-align: center;
+    margin: 0 auto 48px;
+}
+.title-info{
+    font-size: 32px;
+    font-weight: 800px;
+    margin-bottom: 24px;
+
+}
+.info-sub-title{
+    color: red;
+    font-size: 16px;
+}
+ */
+
+/* 1 parrt */
+ 
+
+ .info-cod{
+    height: 100%;
+    width: 80%;
+    border: 2px solid;
+    background-color: white;
+    margin: 90px;
+
+
+    /* ------------------- */
+    
+ }
+/* 1number */
+.title-info{
+    margin-top: 80px;
+    font-size: 32px;
+    /* display: flex */
+    text-align:center;
+    
+    
+    /* 1nember  */
+}
+.info-sub-title{
+    margin-top: 24px;
+    text-align: center;
+
+}
+/* 2 number part */
+
+.tex-style{
+    
+}
+
+
+
+
+/* ----------------- */
+
+
+
+.text-1{
+    margin-top: 48px;
+    font-size: 24px;
+    border-left: fext 48px;
+
+}
+.text-2{
+    margin-top: 10px;
+    font-size: 16px;
+}
